@@ -1,7 +1,752 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2055e6b9-3b4e-4b7e-9f47-870390f7cd16" name="Default" comment="" />
+    <list default="true" id="2055e6b9-3b4e-4b7e-9f47-870390f7cd16" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeCache.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/2.8.12.2/CMakeCCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/2.8.12.2/CMakeCXXCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/2.8.12.2/CMakeDetermineCompilerABI_C.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/2.8.12.2/CMakeDetermineCompilerABI_CXX.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/2.8.12.2/CMakeSystem.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/2.8.12.2/CompilerIdC/a.out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/2.8.12.2/CompilerIdCXX/a.out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/CMakeError.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/CMakeOutput.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/CMakeRuleHashes.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/Makefile.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/Makefile2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/TargetDirectories.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/cmake.check_cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/progress.marks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/version.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/version.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/version.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/version.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/version.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/version.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CTestCustom.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/CTestTestfile.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/cmake_install.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/CMakeFiles/progress.marks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/CTestTestfile.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/cmake_install.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/progress.marks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/CTestTestfile.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/cmake_install.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/libgtest.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/gtest/libgtest_main.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/progress.marks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/C.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/connecthostport.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/igd_desc_parse.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/minisoap.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/minissdpc.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/miniupnpc.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/miniwget.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/minixml.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/portlistingparse.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/receivedata.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/upnpc.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/upnpcommands.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/upnperrors.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/upnpreplyparse.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CTestTestfile.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/cmake_install.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/libminiupnpc.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/miniupnpcstrings.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/BlockchainExplorer/BlockchainExplorer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/BlockchainExplorer/BlockchainExplorerDataBuilder.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/BlockchainExplorer/BlockchainExplorerErrors.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/Base58.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/BlockingQueue.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/CommandLine.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/ConsoleHandler.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/ConsoleTools.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/IInputStream.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/IOutputStream.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/JsonValue.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/Math.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/MemoryInputStream.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/PathTools.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/ScopeExit.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/SignalHandler.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StdInputStream.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StdOutputStream.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StreamTools.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StringInputStream.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StringOutputStream.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StringTools.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StringView.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/Util.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/VectorOutputStream.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/ConnectivityTool/ConnectivityTool.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/C.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/blake256.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/chacha8.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/crypto-ops.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/crypto.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/groestl.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/hash.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/jh.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/keccak.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/oaes_lib.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/random.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/skein.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/slow-hash.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/tree-hash.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/Daemon/Daemon.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/Daemon/DaemonCommandsHandler.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/HTTP/HttpParser.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/JsonRpcServer/JsonRpcServer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/CommonLogger.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/ConsoleLogger.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/FileLogger.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/ILogger.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/LoggerGroup.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/LoggerManager.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/LoggerMessage.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/LoggerRef.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/StreamLogger.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/Miner/BlockchainMonitor.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/Miner/Miner.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/Miner/MinerManager.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/Miner/MiningConfig.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/Miner/main.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/NodeRpcProxy/NodeErrors.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/NodeRpcProxy/NodeRpcProxy.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/CryptoNoteProtocol/CryptoNoteProtocolHandler.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/IP2pNodeInternal.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/LevinProtocol.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/NetNode.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/NetNodeConfig.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/P2pConnectionProxy.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/P2pContext.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/P2pContextOwner.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/P2pInterfaces.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/P2pNode.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/P2pNodeConfig.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/PeerListManager.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/NodeFactory.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/PaymentServiceJsonRpcMessages.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/PaymentServiceJsonRpcServer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/WalletFactory.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/WalletService.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/WalletServiceErrorCategory.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/PaymentGateService/ConfigurationManager.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/PaymentGateService/PaymentGateService.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/PaymentGateService/PaymentServiceConfiguration.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/PaymentGateService/RpcNodeConfiguration.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/PaymentGateService/main.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/SimpleWallet/PasswordContainer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/SimpleWallet/SimpleWallet.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/Dispatcher.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/ErrorMessage.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/Ipv4Resolver.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/TcpConnection.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/TcpConnector.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/TcpListener.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/Timer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/ContextGroup.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/ContextGroupTimeout.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/Event.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/EventLock.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/InterruptedException.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/Ipv4Address.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/RemoteEventLock.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/TcpStream.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/LegacyKeysImporter.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletAsyncContextCounter.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletErrors.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletGreen.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletRpcServer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletSerialization.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletUtils.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/KeysStorage.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletHelper.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacy.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacySerialization.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacySerializer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletTransactionSender.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletUnconfirmedTransactions.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletUserTransactionsCache.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/progress.marks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/CTestTestfile.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/americancoind" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/americancoind.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/cmake_install.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/connectivity_tool" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/libBlockchainExplorer.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/libCommon.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/libCrypto.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/libCryptoNoteCore.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/libHttp.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/libInProcessNode.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/libJsonRpcServer.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/libLogging.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/libNodeRpcProxy.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/libP2P.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/libPaymentGate.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/libRpc.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/libSerialization.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/libSystem.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/libTransfers.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/libWallet.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/miner" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/simplewallet" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/walletd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/BlockReward.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/C.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/crypto-ops-data.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/crypto-ops.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/crypto.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/hash.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/main.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/random.c.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/DifficultyTests.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/DifficultyTests.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/DifficultyTests.dir/Difficulty/Difficulty.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/DifficultyTests.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/DifficultyTests.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/DifficultyTests.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/DifficultyTests.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/DifficultyTests.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/DifficultyTests.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/DifficultyTests.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTargetTests.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTargetTests.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTargetTests.dir/HashTarget.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTargetTests.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTargetTests.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTargetTests.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTargetTests.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTargetTests.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTargetTests.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTargetTests.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTests.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTests.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTests.dir/Hash/main.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTests.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTests.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTests.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTests.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTests.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTests.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTests.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/BaseFunctionalTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/InProcTestNode.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/Logger.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/Process.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/RPCTestNode.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/TestNetwork.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/TestWalletLegacy.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/IntegrationTests/IntegrationTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/IntegrationTests/MultiVersion.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/IntegrationTests/Node.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/IntegrationTests/WalletLegacyTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/IntegrationTests/main.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/NodeRpcProxyTests.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/NodeRpcProxyTests.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/NodeRpcProxyTests.dir/NodeRpcProxyTests/NodeRpcProxyTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/NodeRpcProxyTests.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/NodeRpcProxyTests.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/NodeRpcProxyTests.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/NodeRpcProxyTests.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/NodeRpcProxyTests.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/NodeRpcProxyTests.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/NodeRpcProxyTests.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/PerformanceTests.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/PerformanceTests.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/PerformanceTests.dir/PerformanceTests/main.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/PerformanceTests.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/PerformanceTests.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/PerformanceTests.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/PerformanceTests.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/PerformanceTests.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/PerformanceTests.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/PerformanceTests.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/ContextGroupTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/ContextGroupTimeoutTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/ContextTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/DispatcherTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/ErrorMessageTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/EventLockTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/EventTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/Ipv4AddressTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/Ipv4ResolverTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/OperationTimeoutTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/RemoteContextTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/TcpConnectionTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/TcpConnectorTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/TcpListenerTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/TimerTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/main.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TestGenerator.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TestGenerator.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TestGenerator.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TestGenerator.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TestGenerator.dir/cmake_clean_target.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TestGenerator.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TestGenerator.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TestGenerator.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TestGenerator.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TestGenerator.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/TransfersTests/TestNodeRpcProxy.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/TransfersTests/TestTxPoolSync.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/TransfersTests/Tests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/TransfersTests/main.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/CXX.includecache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/ArrayRefTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/ArrayViewTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/Base58.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/BlockReward.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/BlockingQueue.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/Chacha8.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/Checkpoints.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/DecomposeAmountIntoDigits.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/EventWaiter.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/ICoreStub.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/ICryptoNoteProtocolQueryStub.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/INodeStubs.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/MulDiv.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/ParseAmount.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/PaymentGateTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/Serialization.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/SerializationKV.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/Shuffle.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/StringBufferTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/StringViewTests.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestBcS.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestBlockchainExplorer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestBlockchainGenerator.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestCurrency.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestFormatUtils.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestInprocessNode.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestJsonValue.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestMessageQueue.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestPath.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestPeerlist.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestProtocolPack.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransactionPoolDetach.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfers.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersConsumer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersContainer.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersContainerKeyImage.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersSubscription.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestWallet.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestWalletLegacy.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestWalletService.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TransactionApi.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TransactionApiHelpers.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TransactionPool.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/main.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/depend.internal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/depend.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/flags.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/link.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/progress.marks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/tests.dir/DependInfo.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/tests.dir/build.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/tests.dir/cmake_clean.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/tests.dir/progress.make" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/CTestTestfile.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/cmake_install.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/core_tests" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/crypto_tests" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/difficulty_tests" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/hash_target_tests" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/hash_tests" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/integration_tests" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/libIntegrationTestLibrary.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/libTestGenerator.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/node_rpc_proxy_tests" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/performance_tests" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/system_tests" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/transfers_tests" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/tests/unit_tests" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/version/version.h" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CryptoNoteConfig.h" afterPath="$PROJECT_DIR$/src/CryptoNoteConfig.h" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +761,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/CryptoNoteConfig.h" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -25,9 +778,9 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="24" />
+    <option name="y" value="34" />
     <option name="width" value="1535" />
-    <option name="height" value="876" />
+    <option name="height" value="866" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -47,7 +800,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -61,12 +813,28 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -80,6 +848,69 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -91,31 +922,32 @@
       <option name="presentableId" value="Default" />
       <updated>1492531419157</updated>
       <workItem from="1492531420543" duration="41000" />
+      <workItem from="1494015420943" duration="242000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41000" />
+    <option name="totallyTimeSpent" value="283000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1535" height="876" extended-state="0" />
+    <frame x="65" y="34" width="1535" height="866" extended-state="6" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2495114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -130,10 +962,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/CryptoNoteConfig.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="75" lean-forward="true" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
+        <state relative-caret-position="1944">
+          <caret line="108" column="17" lean-forward="false" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
           <folding />
         </state>
       </provider>
