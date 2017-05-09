@@ -2,328 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2055e6b9-3b4e-4b7e-9f47-870390f7cd16" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENCE.txt" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/build/release/src/americancoind.log" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o" afterPath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o" afterPath="$PROJECT_DIR$/build/release/external/gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/external/gtest/libgtest.a" afterPath="$PROJECT_DIR$/build/release/external/gtest/libgtest.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/external/gtest/libgtest_main.a" afterPath="$PROJECT_DIR$/build/release/external/gtest/libgtest_main.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/connecthostport.c.o" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/connecthostport.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/igd_desc_parse.c.o" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/igd_desc_parse.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/minisoap.c.o" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/minisoap.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/minissdpc.c.o" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/minissdpc.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/miniupnpc.c.o" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/miniupnpc.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/miniwget.c.o" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/miniwget.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/minixml.c.o" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/minixml.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/portlistingparse.c.o" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/portlistingparse.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/receivedata.c.o" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/receivedata.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/upnpc.c.o" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/upnpc.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/upnpcommands.c.o" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/upnpcommands.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/upnperrors.c.o" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/upnperrors.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/upnpreplyparse.c.o" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/CMakeFiles/upnpc-static.dir/upnpreplyparse.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/external/miniupnpc/libminiupnpc.a" afterPath="$PROJECT_DIR$/build/release/external/miniupnpc/libminiupnpc.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/BlockchainExplorer/BlockchainExplorer.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/BlockchainExplorer/BlockchainExplorer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/BlockchainExplorer/BlockchainExplorerDataBuilder.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/BlockchainExplorer/BlockchainExplorerDataBuilder.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/BlockchainExplorer/BlockchainExplorerErrors.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/BlockchainExplorer.dir/BlockchainExplorer/BlockchainExplorerErrors.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/Base58.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/Base58.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/BlockingQueue.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/BlockingQueue.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/CommandLine.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/CommandLine.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/ConsoleHandler.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/ConsoleHandler.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/ConsoleTools.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/ConsoleTools.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/IInputStream.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/IInputStream.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/IOutputStream.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/IOutputStream.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/JsonValue.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/JsonValue.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/Math.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/Math.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/MemoryInputStream.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/MemoryInputStream.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/PathTools.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/PathTools.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/ScopeExit.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/ScopeExit.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/SignalHandler.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/SignalHandler.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StdInputStream.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StdInputStream.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StdOutputStream.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StdOutputStream.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StreamTools.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StreamTools.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StringInputStream.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StringInputStream.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StringOutputStream.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StringOutputStream.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StringTools.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StringTools.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StringView.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/StringView.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/Util.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/Util.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/VectorOutputStream.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Common.dir/Common/VectorOutputStream.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/ConnectivityTool/ConnectivityTool.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/ConnectivityTool.dir/ConnectivityTool/ConnectivityTool.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/blake256.c.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/blake256.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/chacha8.c.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/chacha8.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/crypto-ops-data.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/crypto-ops.c.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/crypto-ops.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/crypto.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/crypto.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/groestl.c.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/groestl.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/hash-extra-blake.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/hash-extra-groestl.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/hash-extra-jh.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/hash-extra-skein.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/hash.c.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/hash.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/jh.c.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/jh.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/keccak.c.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/keccak.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/oaes_lib.c.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/oaes_lib.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/random.c.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/random.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/skein.c.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/skein.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/slow-hash.c.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/slow-hash.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/slow-hash.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/tree-hash.c.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Crypto.dir/crypto/tree-hash.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Account.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockIndex.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Blockchain.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainIndices.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/BlockchainMessages.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Checkpoints.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Core.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CoreConfig.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasic.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteBasicImpl.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteFormatUtils.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteSerialization.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/CryptoNoteTools.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Currency.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Difficulty.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/IBlock.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/ITimeProvider.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Miner.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/MinerConfig.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedMap.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/SwappedVector.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/Transaction.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionExtra.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPool.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionPrefixImpl.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/CryptoNoteCore.dir/CryptoNoteCore/TransactionUtils.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/Daemon/Daemon.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/Daemon/Daemon.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/Daemon/DaemonCommandsHandler.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Daemon.dir/Daemon/DaemonCommandsHandler.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/HTTP/HttpParser.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/HTTP/HttpParser.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/HTTP/HttpParserErrorCodes.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/HTTP/HttpRequest.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Http.dir/HTTP/HttpResponse.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNode.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/InProcessNode.dir/InProcessNode/InProcessNodeErrors.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/JsonRpcServer/JsonRpcServer.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/JsonRpcServer.dir/JsonRpcServer/JsonRpcServer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/CommonLogger.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/CommonLogger.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/ConsoleLogger.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/ConsoleLogger.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/FileLogger.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/FileLogger.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/ILogger.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/ILogger.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/LoggerGroup.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/LoggerGroup.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/LoggerManager.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/LoggerManager.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/LoggerMessage.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/LoggerMessage.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/LoggerRef.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/LoggerRef.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/StreamLogger.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Logging.dir/Logging/StreamLogger.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/Miner/BlockchainMonitor.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/Miner/BlockchainMonitor.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/Miner/Miner.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/Miner/Miner.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/Miner/MinerManager.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/Miner/MinerManager.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/Miner/MiningConfig.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/Miner/MiningConfig.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/Miner/main.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Miner.dir/Miner/main.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/NodeRpcProxy/NodeErrors.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/NodeRpcProxy/NodeErrors.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/NodeRpcProxy/NodeRpcProxy.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/NodeRpcProxy.dir/NodeRpcProxy/NodeRpcProxy.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/CryptoNoteProtocol/CryptoNoteProtocolHandler.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/CryptoNoteProtocol/CryptoNoteProtocolHandler.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/IP2pNodeInternal.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/IP2pNodeInternal.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/LevinProtocol.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/LevinProtocol.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/NetNode.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/NetNode.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/NetNodeConfig.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/NetNodeConfig.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/P2pConnectionProxy.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/P2pConnectionProxy.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/P2pContext.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/P2pContext.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/P2pContextOwner.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/P2pContextOwner.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/P2pInterfaces.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/P2pInterfaces.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/P2pNode.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/P2pNode.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/P2pNodeConfig.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/P2pNodeConfig.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/PeerListManager.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/P2P.dir/P2p/PeerListManager.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/NodeFactory.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/NodeFactory.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/PaymentServiceJsonRpcMessages.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/PaymentServiceJsonRpcMessages.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/PaymentServiceJsonRpcServer.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/PaymentServiceJsonRpcServer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/WalletFactory.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/WalletFactory.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/WalletService.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/WalletService.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/WalletServiceErrorCategory.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGate.dir/PaymentGate/WalletServiceErrorCategory.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/PaymentGateService/ConfigurationManager.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/PaymentGateService/ConfigurationManager.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/PaymentGateService/PaymentGateService.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/PaymentGateService/PaymentGateService.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/PaymentGateService/PaymentServiceConfiguration.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/PaymentGateService/PaymentServiceConfiguration.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/PaymentGateService/RpcNodeConfiguration.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/PaymentGateService/RpcNodeConfiguration.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/PaymentGateService/main.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/PaymentGateService.dir/PaymentGateService/main.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/Rpc/HttpClient.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/Rpc/HttpServer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/Rpc/JsonRpc.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/Rpc/RpcServer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Rpc.dir/Rpc/RpcServerConfig.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/BinaryInputStreamSerializer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/BinaryOutputStreamSerializer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonInputStreamSerializer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonInputValueSerializer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/JsonOutputStreamSerializer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/KVBinaryInputStreamSerializer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/KVBinaryOutputStreamSerializer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/MemoryStream.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Serialization.dir/Serialization/SerializationOverloads.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/SimpleWallet/PasswordContainer.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/SimpleWallet/PasswordContainer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/SimpleWallet/SimpleWallet.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/SimpleWallet.dir/SimpleWallet/SimpleWallet.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/Dispatcher.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/Dispatcher.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/ErrorMessage.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/ErrorMessage.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/Ipv4Resolver.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/Ipv4Resolver.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/TcpConnection.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/TcpConnection.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/TcpConnector.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/TcpConnector.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/TcpListener.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/TcpListener.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/Timer.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/Platform/Linux/System/Timer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/ContextGroup.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/ContextGroup.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/ContextGroupTimeout.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/ContextGroupTimeout.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/Event.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/Event.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/EventLock.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/EventLock.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/InterruptedException.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/InterruptedException.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/Ipv4Address.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/Ipv4Address.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/RemoteEventLock.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/RemoteEventLock.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/TcpStream.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/System.dir/System/TcpStream.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/Transfers/BlockchainSynchronizer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/Transfers/SynchronizationState.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/Transfers/TransfersConsumer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/Transfers/TransfersContainer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/Transfers/TransfersSubscription.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Transfers.dir/Transfers/TransfersSynchronizer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/LegacyKeysImporter.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/LegacyKeysImporter.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletAsyncContextCounter.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletAsyncContextCounter.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletErrors.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletErrors.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletGreen.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletGreen.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletRpcServer.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletRpcServer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletSerialization.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletSerialization.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletUtils.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/Wallet/WalletUtils.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/KeysStorage.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/KeysStorage.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletHelper.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletHelper.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacy.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacy.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacySerialization.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacySerialization.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacySerializer.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletLegacySerializer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletTransactionSender.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletTransactionSender.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletUnconfirmedTransactions.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletUnconfirmedTransactions.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletUserTransactionsCache.cpp.o" afterPath="$PROJECT_DIR$/build/release/src/CMakeFiles/Wallet.dir/WalletLegacy/WalletUserTransactionsCache.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/americancoind" afterPath="$PROJECT_DIR$/build/release/src/americancoind" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/libBlockchainExplorer.a" afterPath="$PROJECT_DIR$/build/release/src/libBlockchainExplorer.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/libCommon.a" afterPath="$PROJECT_DIR$/build/release/src/libCommon.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/libCrypto.a" afterPath="$PROJECT_DIR$/build/release/src/libCrypto.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/libCryptoNoteCore.a" afterPath="$PROJECT_DIR$/build/release/src/libCryptoNoteCore.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/libHttp.a" afterPath="$PROJECT_DIR$/build/release/src/libHttp.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/libInProcessNode.a" afterPath="$PROJECT_DIR$/build/release/src/libInProcessNode.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/libJsonRpcServer.a" afterPath="$PROJECT_DIR$/build/release/src/libJsonRpcServer.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/libLogging.a" afterPath="$PROJECT_DIR$/build/release/src/libLogging.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/libNodeRpcProxy.a" afterPath="$PROJECT_DIR$/build/release/src/libNodeRpcProxy.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/libP2P.a" afterPath="$PROJECT_DIR$/build/release/src/libP2P.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/libPaymentGate.a" afterPath="$PROJECT_DIR$/build/release/src/libPaymentGate.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/libRpc.a" afterPath="$PROJECT_DIR$/build/release/src/libRpc.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/libSerialization.a" afterPath="$PROJECT_DIR$/build/release/src/libSerialization.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/libSystem.a" afterPath="$PROJECT_DIR$/build/release/src/libSystem.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/libTransfers.a" afterPath="$PROJECT_DIR$/build/release/src/libTransfers.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/libWallet.a" afterPath="$PROJECT_DIR$/build/release/src/libWallet.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/src/walletd" afterPath="$PROJECT_DIR$/build/release/src/walletd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/BlockReward.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/BlockReward.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/BlockValidation.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSplit1.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/ChainSwitch1.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/Chaingen001.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/ChaingenMain.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/DoubleSpend.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/IntegerOverflow.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/RandomOuts.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/RingSignature.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionBuilder.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CoreTests.dir/CoreTests/TransactionValidation.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/crypto-ops-data.c.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/crypto-ops-data.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/crypto-ops.c.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/crypto-ops.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/crypto.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/crypto.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/hash.c.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/hash.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/main.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/main.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/random.c.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/CryptoTests.dir/crypto/random.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/DifficultyTests.dir/Difficulty/Difficulty.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/DifficultyTests.dir/Difficulty/Difficulty.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTargetTests.dir/HashTarget.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTargetTests.dir/HashTarget.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTests.dir/Hash/main.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/HashTests.dir/Hash/main.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/BaseFunctionalTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/BaseFunctionalTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/InProcTestNode.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/InProcTestNode.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/Logger.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/Logger.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/Process.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/Process.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/RPCTestNode.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/RPCTestNode.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/TestNetwork.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/TestNetwork.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/TestWalletLegacy.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTestLibrary.dir/IntegrationTestLib/TestWalletLegacy.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/IntegrationTests/IntegrationTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/IntegrationTests/IntegrationTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/IntegrationTests/MultiVersion.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/IntegrationTests/MultiVersion.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/IntegrationTests/Node.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/IntegrationTests/Node.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/IntegrationTests/WalletLegacyTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/IntegrationTests/WalletLegacyTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/IntegrationTests/main.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/IntegrationTests.dir/IntegrationTests/main.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/NodeRpcProxyTests.dir/NodeRpcProxyTests/NodeRpcProxyTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/NodeRpcProxyTests.dir/NodeRpcProxyTests/NodeRpcProxyTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/PerformanceTests.dir/PerformanceTests/main.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/PerformanceTests.dir/PerformanceTests/main.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/ContextGroupTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/ContextGroupTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/ContextGroupTimeoutTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/ContextGroupTimeoutTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/ContextTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/ContextTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/DispatcherTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/DispatcherTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/ErrorMessageTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/ErrorMessageTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/EventLockTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/EventLockTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/EventTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/EventTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/Ipv4AddressTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/Ipv4AddressTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/Ipv4ResolverTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/Ipv4ResolverTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/OperationTimeoutTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/OperationTimeoutTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/RemoteContextTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/RemoteContextTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/TcpConnectionTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/TcpConnectionTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/TcpConnectorTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/TcpConnectorTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/TcpListenerTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/TcpListenerTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/TimerTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/TimerTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/main.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/SystemTests.dir/System/main.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TestGenerator.dir/TestGenerator/TestGenerator.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/TransfersTests/TestNodeRpcProxy.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/TransfersTests/TestNodeRpcProxy.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/TransfersTests/TestTxPoolSync.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/TransfersTests/TestTxPoolSync.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/TransfersTests/Tests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/TransfersTests/Tests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/TransfersTests/main.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/TransfersTests.dir/TransfersTests/main.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/ArrayRefTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/ArrayRefTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/ArrayViewTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/ArrayViewTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/Base58.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/Base58.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/BlockReward.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/BlockReward.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/BlockingQueue.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/BlockingQueue.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/Chacha8.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/Chacha8.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/Checkpoints.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/Checkpoints.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/DecomposeAmountIntoDigits.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/DecomposeAmountIntoDigits.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/EventWaiter.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/EventWaiter.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/ICoreStub.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/ICoreStub.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/ICryptoNoteProtocolQueryStub.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/ICryptoNoteProtocolQueryStub.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/INodeStubs.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/INodeStubs.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/MulDiv.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/MulDiv.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/ParseAmount.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/ParseAmount.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/PaymentGateTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/PaymentGateTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/Serialization.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/Serialization.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/SerializationKV.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/SerializationKV.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/Shuffle.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/Shuffle.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/StringBufferTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/StringBufferTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/StringViewTests.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/StringViewTests.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestBcS.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestBcS.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestBlockchainExplorer.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestBlockchainExplorer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestBlockchainGenerator.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestBlockchainGenerator.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestCurrency.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestCurrency.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestFormatUtils.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestFormatUtils.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestInprocessNode.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestInprocessNode.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestJsonValue.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestJsonValue.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestMessageQueue.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestMessageQueue.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestPath.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestPath.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestPeerlist.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestPeerlist.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestProtocolPack.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestProtocolPack.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransactionPoolDetach.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransactionPoolDetach.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfers.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfers.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersConsumer.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersConsumer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersContainer.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersContainer.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersContainerKeyImage.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersContainerKeyImage.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersSubscription.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestTransfersSubscription.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestWallet.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestWallet.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestWalletLegacy.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestWalletLegacy.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestWalletService.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TestWalletService.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TransactionApi.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TransactionApi.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TransactionApiHelpers.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TransactionApiHelpers.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TransactionPool.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/TransactionPool.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/main.cpp.o" afterPath="$PROJECT_DIR$/build/release/tests/CMakeFiles/UnitTests.dir/UnitTests/main.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/integration_tests" afterPath="$PROJECT_DIR$/build/release/tests/integration_tests" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/libIntegrationTestLibrary.a" afterPath="$PROJECT_DIR$/build/release/tests/libIntegrationTestLibrary.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/libTestGenerator.a" afterPath="$PROJECT_DIR$/build/release/tests/libTestGenerator.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/tests/transfers_tests" afterPath="$PROJECT_DIR$/build/release/tests/transfers_tests" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/2.8.12.2/CMakeSystem.cmake" afterPath="$PROJECT_DIR$/build/release/CMakeFiles/2.8.12.2/CMakeSystem.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/CMakeError.log" afterPath="$PROJECT_DIR$/build/release/CMakeFiles/CMakeError.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/CMakeOutput.log" afterPath="$PROJECT_DIR$/build/release/CMakeFiles/CMakeOutput.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/build/release/CMakeFiles/Makefile2" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -334,13 +15,13 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="623">
-                <caret line="45" column="67" lean-forward="true" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
+              <first_editor relative-caret-position="121">
+                <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -351,8 +32,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            <state relative-caret-position="18">
+              <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -389,10 +70,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="-4" />
-    <option name="width" value="1535" />
-    <option name="height" value="904" />
+    <option name="x" value="64" />
+    <option name="y" value="-11" />
+    <option name="width" value="1537" />
+    <option name="height" value="912" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -426,8 +107,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -528,27 +209,28 @@
       <workItem from="1492531420543" duration="41000" />
       <workItem from="1494015420943" duration="1374000" />
       <workItem from="1494077787099" duration="12000" />
-      <workItem from="1494358104771" duration="3097000" />
+      <workItem from="1494358104771" duration="4454000" />
+      <workItem from="1494370710792" duration="28000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4524000" />
+    <option name="totallyTimeSpent" value="5909000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
+    <frame x="64" y="-11" width="1537" height="912" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2495114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -569,6 +251,25 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/CryptoNoteConfig.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1944">
@@ -580,15 +281,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="30" column="10" lean-forward="false" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="623">
-            <caret line="45" column="67" lean-forward="true" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
+          <first_editor relative-caret-position="121">
+            <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             <folding />
           </first_editor>
           <second_editor />
@@ -597,8 +297,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        <state relative-caret-position="18">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
           <folding />
         </state>
       </provider>
