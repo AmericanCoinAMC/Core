@@ -34,13 +34,3 @@ pull request directly to the "master" branch. In cases where the change is relat
 
 See [Licence](https://github.com/AmericanCoinAMC/Core/blob/master/LICENCE.txt)
 
-
-### Supporting the Project
-
-AmericanCoin development can be supported directly through donations.
-
-Both AmericanCoin and Bitcoin donations can be made to donate.getmonero.org if using a client that supports the OpenAlias standard
-
-The AmericanCoin donation address is: 44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A
-
-The Bitcoin donation address is: 1KTexdemPdxSBcG55heUuTjDRYqbC5ZL8H
