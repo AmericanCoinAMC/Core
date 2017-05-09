@@ -371,16 +371,16 @@ clean: src/CMakeFiles/Common.dir/clean
 # Target rules for target src/CMakeFiles/ConnectivityTool.dir
 
 # All Build rule for target.
-src/CMakeFiles/ConnectivityTool.dir/all: src/CMakeFiles/Common.dir/all
-src/CMakeFiles/ConnectivityTool.dir/all: src/CMakeFiles/Http.dir/all
 src/CMakeFiles/ConnectivityTool.dir/all: CMakeFiles/version.dir/all
 src/CMakeFiles/ConnectivityTool.dir/all: src/CMakeFiles/Crypto.dir/all
+src/CMakeFiles/ConnectivityTool.dir/all: src/CMakeFiles/Http.dir/all
 src/CMakeFiles/ConnectivityTool.dir/all: src/CMakeFiles/CryptoNoteCore.dir/all
 src/CMakeFiles/ConnectivityTool.dir/all: src/CMakeFiles/Logging.dir/all
 src/CMakeFiles/ConnectivityTool.dir/all: src/CMakeFiles/Rpc.dir/all
 src/CMakeFiles/ConnectivityTool.dir/all: src/CMakeFiles/P2P.dir/all
 src/CMakeFiles/ConnectivityTool.dir/all: src/CMakeFiles/Serialization.dir/all
 src/CMakeFiles/ConnectivityTool.dir/all: src/CMakeFiles/System.dir/all
+src/CMakeFiles/ConnectivityTool.dir/all: src/CMakeFiles/Common.dir/all
 	$(MAKE) -f src/CMakeFiles/ConnectivityTool.dir/build.make src/CMakeFiles/ConnectivityTool.dir/depend
 	$(MAKE) -f src/CMakeFiles/ConnectivityTool.dir/build.make src/CMakeFiles/ConnectivityTool.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/jessdotjs/Projects/AmericanCoin/core/build/release/CMakeFiles  9
@@ -485,18 +485,18 @@ clean: src/CMakeFiles/CryptoNoteCore.dir/clean
 # Target rules for target src/CMakeFiles/Daemon.dir
 
 # All Build rule for target.
-src/CMakeFiles/Daemon.dir/all: external/miniupnpc/CMakeFiles/upnpc-static.dir/all
-src/CMakeFiles/Daemon.dir/all: src/CMakeFiles/Common.dir/all
-src/CMakeFiles/Daemon.dir/all: src/CMakeFiles/Http.dir/all
 src/CMakeFiles/Daemon.dir/all: CMakeFiles/version.dir/all
+src/CMakeFiles/Daemon.dir/all: external/miniupnpc/CMakeFiles/upnpc-static.dir/all
 src/CMakeFiles/Daemon.dir/all: src/CMakeFiles/BlockchainExplorer.dir/all
 src/CMakeFiles/Daemon.dir/all: src/CMakeFiles/Crypto.dir/all
+src/CMakeFiles/Daemon.dir/all: src/CMakeFiles/Http.dir/all
 src/CMakeFiles/Daemon.dir/all: src/CMakeFiles/CryptoNoteCore.dir/all
 src/CMakeFiles/Daemon.dir/all: src/CMakeFiles/Logging.dir/all
 src/CMakeFiles/Daemon.dir/all: src/CMakeFiles/Rpc.dir/all
 src/CMakeFiles/Daemon.dir/all: src/CMakeFiles/P2P.dir/all
 src/CMakeFiles/Daemon.dir/all: src/CMakeFiles/Serialization.dir/all
 src/CMakeFiles/Daemon.dir/all: src/CMakeFiles/System.dir/all
+src/CMakeFiles/Daemon.dir/all: src/CMakeFiles/Common.dir/all
 	$(MAKE) -f src/CMakeFiles/Daemon.dir/build.make src/CMakeFiles/Daemon.dir/depend
 	$(MAKE) -f src/CMakeFiles/Daemon.dir/build.make src/CMakeFiles/Daemon.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/jessdotjs/Projects/AmericanCoin/core/build/release/CMakeFiles  32
@@ -671,14 +671,14 @@ clean: src/CMakeFiles/Logging.dir/clean
 # Target rules for target src/CMakeFiles/Miner.dir
 
 # All Build rule for target.
-src/CMakeFiles/Miner.dir/all: src/CMakeFiles/Common.dir/all
-src/CMakeFiles/Miner.dir/all: src/CMakeFiles/Http.dir/all
 src/CMakeFiles/Miner.dir/all: src/CMakeFiles/Crypto.dir/all
+src/CMakeFiles/Miner.dir/all: src/CMakeFiles/Http.dir/all
 src/CMakeFiles/Miner.dir/all: src/CMakeFiles/CryptoNoteCore.dir/all
 src/CMakeFiles/Miner.dir/all: src/CMakeFiles/Logging.dir/all
 src/CMakeFiles/Miner.dir/all: src/CMakeFiles/Rpc.dir/all
 src/CMakeFiles/Miner.dir/all: src/CMakeFiles/Serialization.dir/all
 src/CMakeFiles/Miner.dir/all: src/CMakeFiles/System.dir/all
+src/CMakeFiles/Miner.dir/all: src/CMakeFiles/Common.dir/all
 	$(MAKE) -f src/CMakeFiles/Miner.dir/build.make src/CMakeFiles/Miner.dir/depend
 	$(MAKE) -f src/CMakeFiles/Miner.dir/build.make src/CMakeFiles/Miner.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/jessdotjs/Projects/AmericanCoin/core/build/release/CMakeFiles  44
@@ -818,12 +818,11 @@ clean: src/CMakeFiles/PaymentGate.dir/clean
 # Target rules for target src/CMakeFiles/PaymentGateService.dir
 
 # All Build rule for target.
-src/CMakeFiles/PaymentGateService.dir/all: external/miniupnpc/CMakeFiles/upnpc-static.dir/all
-src/CMakeFiles/PaymentGateService.dir/all: src/CMakeFiles/Common.dir/all
-src/CMakeFiles/PaymentGateService.dir/all: src/CMakeFiles/Http.dir/all
 src/CMakeFiles/PaymentGateService.dir/all: CMakeFiles/version.dir/all
+src/CMakeFiles/PaymentGateService.dir/all: external/miniupnpc/CMakeFiles/upnpc-static.dir/all
 src/CMakeFiles/PaymentGateService.dir/all: src/CMakeFiles/BlockchainExplorer.dir/all
 src/CMakeFiles/PaymentGateService.dir/all: src/CMakeFiles/Crypto.dir/all
+src/CMakeFiles/PaymentGateService.dir/all: src/CMakeFiles/Http.dir/all
 src/CMakeFiles/PaymentGateService.dir/all: src/CMakeFiles/CryptoNoteCore.dir/all
 src/CMakeFiles/PaymentGateService.dir/all: src/CMakeFiles/InProcessNode.dir/all
 src/CMakeFiles/PaymentGateService.dir/all: src/CMakeFiles/Logging.dir/all
@@ -836,6 +835,7 @@ src/CMakeFiles/PaymentGateService.dir/all: src/CMakeFiles/Transfers.dir/all
 src/CMakeFiles/PaymentGateService.dir/all: src/CMakeFiles/PaymentGate.dir/all
 src/CMakeFiles/PaymentGateService.dir/all: src/CMakeFiles/Wallet.dir/all
 src/CMakeFiles/PaymentGateService.dir/all: src/CMakeFiles/JsonRpcServer.dir/all
+src/CMakeFiles/PaymentGateService.dir/all: src/CMakeFiles/Common.dir/all
 	$(MAKE) -f src/CMakeFiles/PaymentGateService.dir/build.make src/CMakeFiles/PaymentGateService.dir/depend
 	$(MAKE) -f src/CMakeFiles/PaymentGateService.dir/build.make src/CMakeFiles/PaymentGateService.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/jessdotjs/Projects/AmericanCoin/core/build/release/CMakeFiles  53
@@ -940,10 +940,9 @@ clean: src/CMakeFiles/Serialization.dir/clean
 # Target rules for target src/CMakeFiles/SimpleWallet.dir
 
 # All Build rule for target.
-src/CMakeFiles/SimpleWallet.dir/all: src/CMakeFiles/Common.dir/all
-src/CMakeFiles/SimpleWallet.dir/all: src/CMakeFiles/Http.dir/all
 src/CMakeFiles/SimpleWallet.dir/all: CMakeFiles/version.dir/all
 src/CMakeFiles/SimpleWallet.dir/all: src/CMakeFiles/Crypto.dir/all
+src/CMakeFiles/SimpleWallet.dir/all: src/CMakeFiles/Http.dir/all
 src/CMakeFiles/SimpleWallet.dir/all: src/CMakeFiles/CryptoNoteCore.dir/all
 src/CMakeFiles/SimpleWallet.dir/all: src/CMakeFiles/Logging.dir/all
 src/CMakeFiles/SimpleWallet.dir/all: src/CMakeFiles/NodeRpcProxy.dir/all
@@ -952,6 +951,7 @@ src/CMakeFiles/SimpleWallet.dir/all: src/CMakeFiles/Serialization.dir/all
 src/CMakeFiles/SimpleWallet.dir/all: src/CMakeFiles/System.dir/all
 src/CMakeFiles/SimpleWallet.dir/all: src/CMakeFiles/Transfers.dir/all
 src/CMakeFiles/SimpleWallet.dir/all: src/CMakeFiles/Wallet.dir/all
+src/CMakeFiles/SimpleWallet.dir/all: src/CMakeFiles/Common.dir/all
 	$(MAKE) -f src/CMakeFiles/SimpleWallet.dir/build.make src/CMakeFiles/SimpleWallet.dir/depend
 	$(MAKE) -f src/CMakeFiles/SimpleWallet.dir/build.make src/CMakeFiles/SimpleWallet.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/jessdotjs/Projects/AmericanCoin/core/build/release/CMakeFiles 
@@ -1131,7 +1131,6 @@ tests/preinstall:
 # Target rules for target tests/CMakeFiles/CoreTests.dir
 
 # All Build rule for target.
-tests/CMakeFiles/CoreTests.dir/all: src/CMakeFiles/Common.dir/all
 tests/CMakeFiles/CoreTests.dir/all: src/CMakeFiles/BlockchainExplorer.dir/all
 tests/CMakeFiles/CoreTests.dir/all: src/CMakeFiles/Crypto.dir/all
 tests/CMakeFiles/CoreTests.dir/all: src/CMakeFiles/CryptoNoteCore.dir/all
@@ -1139,6 +1138,7 @@ tests/CMakeFiles/CoreTests.dir/all: src/CMakeFiles/Logging.dir/all
 tests/CMakeFiles/CoreTests.dir/all: src/CMakeFiles/Serialization.dir/all
 tests/CMakeFiles/CoreTests.dir/all: src/CMakeFiles/System.dir/all
 tests/CMakeFiles/CoreTests.dir/all: tests/CMakeFiles/TestGenerator.dir/all
+tests/CMakeFiles/CoreTests.dir/all: src/CMakeFiles/Common.dir/all
 	$(MAKE) -f tests/CMakeFiles/CoreTests.dir/build.make tests/CMakeFiles/CoreTests.dir/depend
 	$(MAKE) -f tests/CMakeFiles/CoreTests.dir/build.make tests/CMakeFiles/CoreTests.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/jessdotjs/Projects/AmericanCoin/core/build/release/CMakeFiles  10 11 12 13
@@ -1208,11 +1208,11 @@ clean: tests/CMakeFiles/CryptoTests.dir/clean
 # Target rules for target tests/CMakeFiles/DifficultyTests.dir
 
 # All Build rule for target.
-tests/CMakeFiles/DifficultyTests.dir/all: src/CMakeFiles/Common.dir/all
 tests/CMakeFiles/DifficultyTests.dir/all: src/CMakeFiles/Crypto.dir/all
 tests/CMakeFiles/DifficultyTests.dir/all: src/CMakeFiles/CryptoNoteCore.dir/all
 tests/CMakeFiles/DifficultyTests.dir/all: src/CMakeFiles/Logging.dir/all
 tests/CMakeFiles/DifficultyTests.dir/all: src/CMakeFiles/Serialization.dir/all
+tests/CMakeFiles/DifficultyTests.dir/all: src/CMakeFiles/Common.dir/all
 	$(MAKE) -f tests/CMakeFiles/DifficultyTests.dir/build.make tests/CMakeFiles/DifficultyTests.dir/depend
 	$(MAKE) -f tests/CMakeFiles/DifficultyTests.dir/build.make tests/CMakeFiles/DifficultyTests.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/jessdotjs/Projects/AmericanCoin/core/build/release/CMakeFiles 
@@ -1354,11 +1354,10 @@ clean: tests/CMakeFiles/IntegrationTestLibrary.dir/clean
 
 # All Build rule for target.
 tests/CMakeFiles/IntegrationTests.dir/all: external/miniupnpc/CMakeFiles/upnpc-static.dir/all
-tests/CMakeFiles/IntegrationTests.dir/all: src/CMakeFiles/Common.dir/all
-tests/CMakeFiles/IntegrationTests.dir/all: src/CMakeFiles/Http.dir/all
-tests/CMakeFiles/IntegrationTests.dir/all: src/CMakeFiles/BlockchainExplorer.dir/all
 tests/CMakeFiles/IntegrationTests.dir/all: external/gtest/CMakeFiles/gtest.dir/all
+tests/CMakeFiles/IntegrationTests.dir/all: src/CMakeFiles/BlockchainExplorer.dir/all
 tests/CMakeFiles/IntegrationTests.dir/all: src/CMakeFiles/Crypto.dir/all
+tests/CMakeFiles/IntegrationTests.dir/all: src/CMakeFiles/Http.dir/all
 tests/CMakeFiles/IntegrationTests.dir/all: src/CMakeFiles/CryptoNoteCore.dir/all
 tests/CMakeFiles/IntegrationTests.dir/all: src/CMakeFiles/InProcessNode.dir/all
 tests/CMakeFiles/IntegrationTests.dir/all: src/CMakeFiles/Logging.dir/all
@@ -1370,6 +1369,7 @@ tests/CMakeFiles/IntegrationTests.dir/all: src/CMakeFiles/System.dir/all
 tests/CMakeFiles/IntegrationTests.dir/all: src/CMakeFiles/Transfers.dir/all
 tests/CMakeFiles/IntegrationTests.dir/all: src/CMakeFiles/Wallet.dir/all
 tests/CMakeFiles/IntegrationTests.dir/all: tests/CMakeFiles/IntegrationTestLibrary.dir/all
+tests/CMakeFiles/IntegrationTests.dir/all: src/CMakeFiles/Common.dir/all
 	$(MAKE) -f tests/CMakeFiles/IntegrationTests.dir/build.make tests/CMakeFiles/IntegrationTests.dir/depend
 	$(MAKE) -f tests/CMakeFiles/IntegrationTests.dir/build.make tests/CMakeFiles/IntegrationTests.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/jessdotjs/Projects/AmericanCoin/core/build/release/CMakeFiles  38 39
@@ -1404,15 +1404,15 @@ clean: tests/CMakeFiles/IntegrationTests.dir/clean
 # Target rules for target tests/CMakeFiles/NodeRpcProxyTests.dir
 
 # All Build rule for target.
-tests/CMakeFiles/NodeRpcProxyTests.dir/all: src/CMakeFiles/Common.dir/all
-tests/CMakeFiles/NodeRpcProxyTests.dir/all: src/CMakeFiles/Http.dir/all
 tests/CMakeFiles/NodeRpcProxyTests.dir/all: src/CMakeFiles/Crypto.dir/all
+tests/CMakeFiles/NodeRpcProxyTests.dir/all: src/CMakeFiles/Http.dir/all
 tests/CMakeFiles/NodeRpcProxyTests.dir/all: src/CMakeFiles/CryptoNoteCore.dir/all
 tests/CMakeFiles/NodeRpcProxyTests.dir/all: src/CMakeFiles/Logging.dir/all
 tests/CMakeFiles/NodeRpcProxyTests.dir/all: src/CMakeFiles/NodeRpcProxy.dir/all
 tests/CMakeFiles/NodeRpcProxyTests.dir/all: src/CMakeFiles/Rpc.dir/all
 tests/CMakeFiles/NodeRpcProxyTests.dir/all: src/CMakeFiles/Serialization.dir/all
 tests/CMakeFiles/NodeRpcProxyTests.dir/all: src/CMakeFiles/System.dir/all
+tests/CMakeFiles/NodeRpcProxyTests.dir/all: src/CMakeFiles/Common.dir/all
 	$(MAKE) -f tests/CMakeFiles/NodeRpcProxyTests.dir/build.make tests/CMakeFiles/NodeRpcProxyTests.dir/depend
 	$(MAKE) -f tests/CMakeFiles/NodeRpcProxyTests.dir/build.make tests/CMakeFiles/NodeRpcProxyTests.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/jessdotjs/Projects/AmericanCoin/core/build/release/CMakeFiles 
@@ -1447,11 +1447,11 @@ clean: tests/CMakeFiles/NodeRpcProxyTests.dir/clean
 # Target rules for target tests/CMakeFiles/PerformanceTests.dir
 
 # All Build rule for target.
-tests/CMakeFiles/PerformanceTests.dir/all: src/CMakeFiles/Common.dir/all
 tests/CMakeFiles/PerformanceTests.dir/all: src/CMakeFiles/Crypto.dir/all
 tests/CMakeFiles/PerformanceTests.dir/all: src/CMakeFiles/CryptoNoteCore.dir/all
 tests/CMakeFiles/PerformanceTests.dir/all: src/CMakeFiles/Logging.dir/all
 tests/CMakeFiles/PerformanceTests.dir/all: src/CMakeFiles/Serialization.dir/all
+tests/CMakeFiles/PerformanceTests.dir/all: src/CMakeFiles/Common.dir/all
 	$(MAKE) -f tests/CMakeFiles/PerformanceTests.dir/build.make tests/CMakeFiles/PerformanceTests.dir/depend
 	$(MAKE) -f tests/CMakeFiles/PerformanceTests.dir/build.make tests/CMakeFiles/PerformanceTests.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/jessdotjs/Projects/AmericanCoin/core/build/release/CMakeFiles  54
@@ -1486,8 +1486,8 @@ clean: tests/CMakeFiles/PerformanceTests.dir/clean
 # Target rules for target tests/CMakeFiles/SystemTests.dir
 
 # All Build rule for target.
-tests/CMakeFiles/SystemTests.dir/all: external/gtest/CMakeFiles/gtest.dir/all
 tests/CMakeFiles/SystemTests.dir/all: external/gtest/CMakeFiles/gtest_main.dir/all
+tests/CMakeFiles/SystemTests.dir/all: external/gtest/CMakeFiles/gtest.dir/all
 tests/CMakeFiles/SystemTests.dir/all: src/CMakeFiles/System.dir/all
 	$(MAKE) -f tests/CMakeFiles/SystemTests.dir/build.make tests/CMakeFiles/SystemTests.dir/depend
 	$(MAKE) -f tests/CMakeFiles/SystemTests.dir/build.make tests/CMakeFiles/SystemTests.dir/build
@@ -1559,12 +1559,11 @@ clean: tests/CMakeFiles/TestGenerator.dir/clean
 
 # All Build rule for target.
 tests/CMakeFiles/TransfersTests.dir/all: external/miniupnpc/CMakeFiles/upnpc-static.dir/all
-tests/CMakeFiles/TransfersTests.dir/all: src/CMakeFiles/Common.dir/all
-tests/CMakeFiles/TransfersTests.dir/all: src/CMakeFiles/Http.dir/all
-tests/CMakeFiles/TransfersTests.dir/all: src/CMakeFiles/BlockchainExplorer.dir/all
-tests/CMakeFiles/TransfersTests.dir/all: external/gtest/CMakeFiles/gtest.dir/all
 tests/CMakeFiles/TransfersTests.dir/all: external/gtest/CMakeFiles/gtest_main.dir/all
+tests/CMakeFiles/TransfersTests.dir/all: external/gtest/CMakeFiles/gtest.dir/all
+tests/CMakeFiles/TransfersTests.dir/all: src/CMakeFiles/BlockchainExplorer.dir/all
 tests/CMakeFiles/TransfersTests.dir/all: src/CMakeFiles/Crypto.dir/all
+tests/CMakeFiles/TransfersTests.dir/all: src/CMakeFiles/Http.dir/all
 tests/CMakeFiles/TransfersTests.dir/all: src/CMakeFiles/CryptoNoteCore.dir/all
 tests/CMakeFiles/TransfersTests.dir/all: src/CMakeFiles/InProcessNode.dir/all
 tests/CMakeFiles/TransfersTests.dir/all: src/CMakeFiles/Logging.dir/all
@@ -1576,6 +1575,7 @@ tests/CMakeFiles/TransfersTests.dir/all: src/CMakeFiles/System.dir/all
 tests/CMakeFiles/TransfersTests.dir/all: src/CMakeFiles/Transfers.dir/all
 tests/CMakeFiles/TransfersTests.dir/all: src/CMakeFiles/Wallet.dir/all
 tests/CMakeFiles/TransfersTests.dir/all: tests/CMakeFiles/IntegrationTestLibrary.dir/all
+tests/CMakeFiles/TransfersTests.dir/all: src/CMakeFiles/Common.dir/all
 	$(MAKE) -f tests/CMakeFiles/TransfersTests.dir/build.make tests/CMakeFiles/TransfersTests.dir/depend
 	$(MAKE) -f tests/CMakeFiles/TransfersTests.dir/build.make tests/CMakeFiles/TransfersTests.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/jessdotjs/Projects/AmericanCoin/core/build/release/CMakeFiles  73 74
@@ -1610,12 +1610,11 @@ clean: tests/CMakeFiles/TransfersTests.dir/clean
 # Target rules for target tests/CMakeFiles/UnitTests.dir
 
 # All Build rule for target.
-tests/CMakeFiles/UnitTests.dir/all: src/CMakeFiles/Common.dir/all
-tests/CMakeFiles/UnitTests.dir/all: src/CMakeFiles/Http.dir/all
-tests/CMakeFiles/UnitTests.dir/all: src/CMakeFiles/BlockchainExplorer.dir/all
-tests/CMakeFiles/UnitTests.dir/all: external/gtest/CMakeFiles/gtest.dir/all
 tests/CMakeFiles/UnitTests.dir/all: external/gtest/CMakeFiles/gtest_main.dir/all
+tests/CMakeFiles/UnitTests.dir/all: external/gtest/CMakeFiles/gtest.dir/all
+tests/CMakeFiles/UnitTests.dir/all: src/CMakeFiles/BlockchainExplorer.dir/all
 tests/CMakeFiles/UnitTests.dir/all: src/CMakeFiles/Crypto.dir/all
+tests/CMakeFiles/UnitTests.dir/all: src/CMakeFiles/Http.dir/all
 tests/CMakeFiles/UnitTests.dir/all: src/CMakeFiles/CryptoNoteCore.dir/all
 tests/CMakeFiles/UnitTests.dir/all: src/CMakeFiles/InProcessNode.dir/all
 tests/CMakeFiles/UnitTests.dir/all: src/CMakeFiles/Logging.dir/all
@@ -1627,6 +1626,7 @@ tests/CMakeFiles/UnitTests.dir/all: src/CMakeFiles/Transfers.dir/all
 tests/CMakeFiles/UnitTests.dir/all: src/CMakeFiles/PaymentGate.dir/all
 tests/CMakeFiles/UnitTests.dir/all: src/CMakeFiles/Wallet.dir/all
 tests/CMakeFiles/UnitTests.dir/all: tests/CMakeFiles/TestGenerator.dir/all
+tests/CMakeFiles/UnitTests.dir/all: src/CMakeFiles/Common.dir/all
 	$(MAKE) -f tests/CMakeFiles/UnitTests.dir/build.make tests/CMakeFiles/UnitTests.dir/depend
 	$(MAKE) -f tests/CMakeFiles/UnitTests.dir/build.make tests/CMakeFiles/UnitTests.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/jessdotjs/Projects/AmericanCoin/core/build/release/CMakeFiles  75 76 77 78 79 80 81 82 83 84 85 86 87 88 89
@@ -1664,9 +1664,9 @@ clean: tests/CMakeFiles/UnitTests.dir/clean
 tests/CMakeFiles/tests.dir/all: tests/CMakeFiles/CoreTests.dir/all
 tests/CMakeFiles/tests.dir/all: tests/CMakeFiles/IntegrationTests.dir/all
 tests/CMakeFiles/tests.dir/all: tests/CMakeFiles/NodeRpcProxyTests.dir/all
+tests/CMakeFiles/tests.dir/all: tests/CMakeFiles/PerformanceTests.dir/all
 tests/CMakeFiles/tests.dir/all: tests/CMakeFiles/SystemTests.dir/all
 tests/CMakeFiles/tests.dir/all: tests/CMakeFiles/TransfersTests.dir/all
-tests/CMakeFiles/tests.dir/all: tests/CMakeFiles/PerformanceTests.dir/all
 tests/CMakeFiles/tests.dir/all: tests/CMakeFiles/UnitTests.dir/all
 tests/CMakeFiles/tests.dir/all: tests/CMakeFiles/DifficultyTests.dir/all
 tests/CMakeFiles/tests.dir/all: tests/CMakeFiles/HashTargetTests.dir/all
