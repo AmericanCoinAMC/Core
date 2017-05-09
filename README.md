@@ -1,7 +1,7 @@
 # AmericanCoin - in Decentralization we trust
 
 
-###Introduction
+### Introduction
 
 AmericanCoin is a private, secure, untraceable, decentralised digital currency. 
 You are your bank, you control your funds, and nobody can trace your 
@@ -17,7 +17,7 @@ cryptographically secured. Individual wallets have a 25 word mnemonic seed that 
  is able to ensure that transactions are not only untraceable, but have an optional measure of ambiguity that ensures that transactions cannot easily be tied back to an individual user or computer.
  
  
-###About AmericanCoin
+### About AmericanCoin
 
 This is the core implementation of AmericanCoin. It is open source and completely free to use without restrictions, 
 except for those specified in the license agreement below. There are no restrictions on anyone creating an 
@@ -30,12 +30,12 @@ As with many development projects, the repository on Github is considered to be 
 pull request directly to the "master" branch. In cases where the change is relatively small or does not affect other parts of the codebase it may be merged in immediately by any one of the collaborators. On the other hand, if the change is particularly large or complex, it is expected that it will be discussed at length either well in advance of the pull request being submitted, or even directly on the pull request.
 
  
-###Licence
+### Licence
 
 See [Licence](https://github.com/AmericanCoinAMC/Core/blob/master/LICENCE.txt)
 
 
-###Supporting the Project
+### Supporting the Project
 
 Monero development can be supported directly through donations.
 
