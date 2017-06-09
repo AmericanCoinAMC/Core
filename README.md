@@ -34,7 +34,7 @@ pull request directly to the "master" branch. In cases where the change is relat
 
 See [Licence](https://github.com/AmericanCoinAMC/Core/blob/master/LICENCE.txt)
 
-#INSTALLATION AND USAGE:
+##INSTALLATION AND USAGE:
 
 ##LINUX
 
