@@ -29,10 +29,6 @@ As with many development projects, the repository on Github is considered to be 
  it as a 
 pull request directly to the "master" branch. In cases where the change is relatively small or does not affect other parts of the codebase it may be merged in immediately by any one of the collaborators. On the other hand, if the change is particularly large or complex, it is expected that it will be discussed at length either well in advance of the pull request being submitted, or even directly on the pull request.
 
- 
-### Licence
-
-See [Licence](https://github.com/AmericanCoinAMC/Core/blob/master/LICENCE.txt)
 
 ###INSTALLATION AND USAGE:
 
@@ -125,4 +121,7 @@ The AMCCore comes with a CLI wallet where you can mine too. Type **simplewallet.
 
 When you try to create a wallet from the simplewallet app, the program will get stuck trying to generate the wallet address. We recomend you to use the GUI Wallet and create new wallets from there.
  
+### Licence
+
+See [Licence](https://github.com/AmericanCoinAMC/Core/blob/master/LICENCE.txt)
  
