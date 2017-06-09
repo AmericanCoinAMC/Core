@@ -30,9 +30,9 @@ As with many development projects, the repository on Github is considered to be 
 pull request directly to the "master" branch. In cases where the change is relatively small or does not affect other parts of the codebase it may be merged in immediately by any one of the collaborators. On the other hand, if the change is particularly large or complex, it is expected that it will be discussed at length either well in advance of the pull request being submitted, or even directly on the pull request.
 
 
-###INSTALLATION AND USAGE:
+# INSTALLATION AND USAGE:
 
-###LINUX
+## LINUX
 
 You can build AMC from source or you can just extract the binaries in the tar.gz file we used libboost 1.55 so you should have that version installed.
 
@@ -67,7 +67,7 @@ exec path/to/the/daemon/amerciancoind --log-file path/to/your/logfile --no-conso
 
 The AMCCore comes with a CLI wallet where you can mine too. Type **./simplewallet --help** to get all the options available. You can launch this comand line app without arguments too.
 
-###MAC OS X
+## MAC OS X
 
 **WARNING**: This may not work with PowerPc Macs.
 
@@ -103,7 +103,7 @@ If you are planning to use your Mac as a 24/7 node, read the docs about **Creati
 
 *I don't know why you would do that but, ok*
 
-###WINDOWS
+## WINDOWS
 
 Just extract the contents inside AMCCore.zip in your selected directory, open a cmd window, go to the directory where the files were extracted and type:
 
