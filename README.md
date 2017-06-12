@@ -154,12 +154,6 @@ MacPorts <https://guide.macports.org/#installing>
 
 [Download for Mac](https://firebasestorage.googleapis.com/v0/b/americancoinintro.appspot.com/o/Mac%2FAMCCore.zip?alt=media&token=397c6649-5076-4611-91c8-f1e28002ef5e)
 
-
-
-
-Once you meet the requierements, open a terminal, 
-go to the daemon folder (where americancoind is) and type 
-
 Once you have extracted the files, open a terminal and locate yourself in the AMC's Core directory (Where americancoind is located). 
 
 Then, simply type:
@@ -172,7 +166,7 @@ Then, simply type:
 
 [Download the Core for Windows](https://firebasestorage.googleapis.com/v0/b/americancoinintro.appspot.com/o/Mac%2FAMCCore.zip?alt=media&token=397c6649-5076-4611-91c8-f1e28002ef5e)
 
-After extracting the files, locale yourself in that directory using the console and 
+After extracting the files, locate yourself in that directory using the console and 
 run:
 
 
