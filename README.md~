@@ -30,69 +30,24 @@ As with many development projects, the repository on Github is considered to be 
 pull request directly to the "master" branch. In cases where the change is relatively small or does not affect other parts of the codebase it may be merged in immediately by any one of the collaborators. On the other hand, if the change is particularly large or complex, it is expected that it will be discussed at length either well in advance of the pull request being submitted, or even directly on the pull request.
 
 
-# INSTALLATION AND USAGE:
+###INSTALLATION AND USAGE:
 
+###LINUX
 
-You can download the executables directly from our servers or you can build them using your own computer.
+You can build AMC from source or you can just extract the binaries in the tar.gz file we used libboost 1.55 so you should have that version installed.
 
+If you choose to use the binaries just type in your terminal: **tar -xzvf AMCCore.tar.gz** and run the files. 
 
-## LINUX
+ If you have permission problems change ownership of the files using **chwon** or change permissions with **chmod**. For example use **chmod 775** so everyone can execute the files or **chown -R youruser:group** to change the owneship.
 
-
-### Downloading the Core
-
-[Download for Linux](https://firebasestorage.googleapis.com/v0/b/americancoinintro.appspot.com/o/Linux%2FAMCCore.tar.gz?alt=media&token=47157757-06a1-4c46-af07-7f3dde63eb3e)
-
-Extract the files by typing
+If you're going to maintain an AMC node 24/7 you should run americancoind as a service-daemon. Here is an example in Ubuntu's upstart.
 
 ```
-tar -xzvf AMCCore.tar.gz
-```
+# American Coin daemon starter example
+#
+# American coin daemon syncronizes with the 
+#blockchain and connects the machine with the network
 
-Once files have been extracted you can run a node by typing
-
-```
-./americancoind
-```
-
-If you're experiencing issues with permissions, use **chwon** or **chmod** to assign the executables the proper 
-permissions.
-
-You can solo-mine, generate a wallet address and more by running
-
-```
-./simplewallet
-```
-
-### Building AmericanCoin
-
-In order to create your own build, firstly you must install all dependencies
-
-```
-sudo apt-get install build-essential git cmake libboost1.55-all-dev
-```
-
-Once everything has been installed, clone this repository
-```
-git clone https://github.com/AmericanCoinAMC/Core
-```
-
-Now you're ready to build the AmericanCoin Core
-```
-cd Core
-
-make -j
-```
-
-Keep in mind that -j will use all your CPU threads, if you are building on low end hardware use **make** instead.
-
-
-
-If you wish to create a Service in order to run the AMC Core 24/7 we strongly suggest you start AMC's core as a 
-service-daemon
-
-
-```
 description "American Coin daemon"
 
 start on runlevel [2345]
@@ -110,9 +65,9 @@ exec path/to/the/daemon/amerciancoind --log-file path/to/your/logfile --no-conso
 
 **NOTE**: type **./americancoind --help** to find the options available to start the daemon.
 
+The AMCCore comes with a CLI wallet where you can mine too. Type **./simplewallet --help** to get all the options available. You can launch this comand line app without arguments too.
 
-
-## MAC OS X
+###MAC OS X
 
 **WARNING**: This may not work with PowerPc Macs.
 
@@ -148,7 +103,7 @@ If you are planning to use your Mac as a 24/7 node, read the docs about **Creati
 
 *I don't know why you would do that but, ok*
 
-## WINDOWS
+###WINDOWS
 
 Just extract the contents inside AMCCore.zip in your selected directory, open a cmd window, go to the directory where the files were extracted and type:
 

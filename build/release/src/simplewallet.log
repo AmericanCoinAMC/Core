@@ -1,0 +1,29 @@
+2017-Jun-10 18:08:25.759512 INFO [simplewallet] americancoin wallet v1.1.1.1()
+2017-Jun-10 18:08:34.685508 INFO [simplewallet] Generated new wallet: axRmUysj88PgLwCMmt2EynXFChvF5XdwPbB7vEqgLyPsQzFqJkECt83htUYxeHjb6s76A1cJ1FzYXhHy6mPJKpdk1jexngyfj
+2017-Jun-10 18:08:34.685508 INFO [simplewallet] view key: 1b16443c6832680149db03f1c76afb2df91434584c959fa2c50d27517b5d160a
+2017-Jun-10 18:08:34.685734 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Jun-10 18:08:38.139279 ERROR [simplewallet] Error: Failed to invoke rpc method: HTTP status: 2
+2017-Jun-10 18:09:29.665113 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2017-Jun-10 18:09:32.583183 INFO [simplewallet] Wallet closed
+2017-Jun-10 18:10:40.698075 INFO [simplewallet] americancoin wallet v1.1.1.1()
+2017-Jun-10 18:10:50.040828 INFO [simplewallet] Loading wallet...
+2017-Jun-10 18:10:50.056212 INFO [simplewallet] Opened wallet: axRmUysj88PgLwCMmt2EynXFChvF5XdwPbB7vEqgLyPsQzFqJkECt83htUYxeHjb6s76A1cJ1FzYXhHy6mPJKpdk1jexngyfj
+2017-Jun-10 18:10:50.056299 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2017-Jun-10 18:10:54.826178 ERROR [simplewallet] Error: Failed to invoke rpc method: HTTP status: 2
+2017-Jun-10 18:11:22.979792 INFO [simplewallet] Mining started in daemon
+2017-Jun-10 18:11:39.240488 INFO [simplewallet] Mining stopped in daemon
+2017-Jun-10 18:11:44.460559 INFO [simplewallet] Mining started in daemon
+2017-Jun-10 18:12:55.145933 INFO [simplewallet] Height 2725, transaction 5b4a68818f45036f78acc30f3a6aace54889caed6abc824834624186ed1a9856, received 0.00000209
+2017-Jun-10 18:13:10.142822 INFO [simplewallet] Height 2726, transaction 1ba798cb1976268bd0468d0dcb60728027596a349103f4d033360094712cd58c, received 0.00000209
+2017-Jun-10 18:14:25.151416 INFO [simplewallet] Height 2727, transaction af63a1a49974abc70af312c02f453419faccb2713232df73be6898ded7cdf2b7, received 0.00000209
+2017-Jun-10 18:14:30.152082 INFO [simplewallet] Height 2728, transaction abdd9cbd06ccfb6644382187bb85bef94c223bacff6fcf3d024e000736dac92c, received 0.00000209
+2017-Jun-10 18:14:55.156709 INFO [simplewallet] Height 2729, transaction b82195b386b131074a8add4799f04e06cffdcb791dd54ee9eddd01deec2ef705, received 0.00000209
+2017-Jun-10 18:14:57.169894 INFO [simplewallet] Wallet closed
