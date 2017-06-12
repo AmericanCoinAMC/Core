@@ -1,4 +1,4 @@
-# AmericanCoin - in Decentralization we trust
+# AmericanCoin - In Decentralization we trust
 
 
 ### Introduction
@@ -87,13 +87,14 @@ make -j
 Keep in mind that -j will use all your CPU threads, if you are building on low end hardware use **make** instead.
 
 
+#### Creating a Service
 
 If you wish to create a Service in order to run the AMC Core 24/7 we strongly suggest you start AMC's core as a 
 service-daemon
 
 
 ```
-description "American Coin daemon"
+description "AmericanCoin daemon"
 
 start on runlevel [2345]
 stop on runlevel [!2345]
@@ -108,15 +109,30 @@ end script
 exec path/to/the/daemon/amerciancoind --log-file path/to/your/logfile --no-console
 ```
 
-**NOTE**: type **./americancoind --help** to find the options available to start the daemon.
+**NOTE**
+
+You can find all available options by typing
+```
+./americancoind --help
+./simplewallet --help
+```
 
 
 
 ## MAC OS X
 
-**WARNING**: This may not work with PowerPc Macs.
+**WARNING**
 
-The core works fine in os x 10.9 and 10.11. Just extract the contents in AMCCore.zip.
+AMC's Core will only work in OS 10.9 & 10.11 & may not be compatible with PowerPc Macs.
+
+
+### Downloading the Core
+
+[Download for Mac](https://firebasestorage.googleapis.com/v0/b/americancoinintro.appspot.com/o/Linux%2FAMCCore.tar.gz?alt=media&token=47157757-06a1-4c46-af07-7f3dde63eb3e)
+
+
+
+Just extract the contents in AMCCore.zip.
 
 You will need the boost c++ libraries so the daemon and simplewallet can run. If you dont have boost libraries install them using homebrew or MacPorts:
 ```
