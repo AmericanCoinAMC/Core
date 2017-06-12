@@ -125,63 +125,65 @@ You can find all available options by typing
 
 AMC's Core will only work in OS 10.9 & 10.11 & may not be compatible with PowerPc Macs.
 
+**Note**
+
+In order to run AMC Core & the Simple Wallet on Mac OS you will need Boost C++ libraries.
+
+You can obtain these with 
+
+Homebrew
+```
+brew install boost
+```
+
+or
+
+MacPorts
+
+```
+port install boost
+```
+
+For more information visit:
+
+Homebrew <http://docs.brew.sh/Installation.html>
+
+MacPorts <https://guide.macports.org/#installing>
 
 ### Downloading the Core
 
-[Download for Mac](https://firebasestorage.googleapis.com/v0/b/americancoinintro.appspot.com/o/Linux%2FAMCCore.tar.gz?alt=media&token=47157757-06a1-4c46-af07-7f3dde63eb3e)
+[Download for Mac](https://firebasestorage.googleapis.com/v0/b/americancoinintro.appspot.com/o/Mac%2FAMCCore.zip?alt=media&token=397c6649-5076-4611-91c8-f1e28002ef5e)
 
 
 
-Just extract the contents in AMCCore.zip.
 
-You will need the boost c++ libraries so the daemon and simplewallet can run. If you dont have boost libraries install them using homebrew or MacPorts:
-```
-brew install boost (For homebrew)
-```
+Once you meet the requierements, open a terminal, 
+go to the daemon folder (where americancoind is) and type 
 
-or 
+Once you have extracted the files, open a terminal and locate yourself in the AMC's Core directory (Where americancoind is located). 
 
-```
-port install boost (MacPorts) 
-```
-
-For more information about how to install homebrew or MacPorts go to:
-
-<http://docs.brew.sh/Installation.html> for Homebrew
-<https://guide.macports.org/#installing> for MacPorts
-
-Once you meet the requierements, open a terminal, go to the daemon folder (where americancoind is) and type 
+Then, simply type:
 
 ~~~
 ./americancoind 
 ~~~
 
-**NOTE**: type **./americancoind --help** to find the options available to start the daemon. 
-
-The AMCCore comes with a CLI wallet where you can mine too. Type **./simplewallet --help** to get all the options available. You can launch this comand line app without arguments too.
-
-If you are planning to use your Mac as a 24/7 node, read the docs about **Creating Launch Daemons and Agents** from  the apple developer site: <https://developer.apple.com/library/content/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html>
-
-*I don't know why you would do that but, ok*
-
 ## WINDOWS
 
-Just extract the contents inside AMCCore.zip in your selected directory, open a cmd window, go to the directory where the files were extracted and type:
+[Download the Core for Windows](https://firebasestorage.googleapis.com/v0/b/americancoinintro.appspot.com/o/Mac%2FAMCCore.zip?alt=media&token=397c6649-5076-4611-91c8-f1e28002ef5e)
+
+After extracting the files, locale yourself in that directory using the console and 
+run:
+
 
  ```
  americancoin.exe 
  ```
  
- If you're going to set up your windows machine to be a 24/7 node, you should set up the executable to work as a service. Unfortunately, this executable was not meant to be a service (at least in windows) so you will have to force it to work that way if you wish. 
- 
- You can use **SrvStart** to achieve this goal. Go to <http://www.rozanski.org.uk/software> and look for the utility. 
- 
- **NOTE**: type **americancoind.exe --help** to find the options available to start the daemon.
+ If you are interested in solo-mining using windows, we suggest you generate your wallet address using the [Wallet GUI](https://github.com/AmericanCoinAMC/Wallet)
 
-The AMCCore comes with a CLI wallet where you can mine too. Type **simplewallet.exe --help** to get all the options available. You can launch this comand line app without arguments too.
-
-When you try to create a wallet from the simplewallet app, the program will get stuck trying to generate the wallet address. We recomend you to use the GUI Wallet and create new wallets from there.
  
+
 ### Licence
 
 See [Licence](https://github.com/AmericanCoinAMC/Core/blob/master/LICENCE.txt)
